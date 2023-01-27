@@ -1,0 +1,16 @@
+{
+  "group": "spiked_scute",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsabnormalities:spiked_scute_block"
+    }
+  },
+  "result": {
+    "item": "alexsmobs:spiked_scute",
+    "count": 9
+  }
+}

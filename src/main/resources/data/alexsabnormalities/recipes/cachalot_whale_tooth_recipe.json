@@ -1,0 +1,16 @@
+{
+  "group": "whale_tooth",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsabnormalities:cachalot_whale_tooth_block"
+    }
+  },
+  "result": {
+    "item": "alexsmobs:cachalot_whale_tooth",
+    "count": 9
+  }
+}

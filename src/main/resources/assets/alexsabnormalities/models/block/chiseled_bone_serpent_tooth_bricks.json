@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "alexsabnormalities:blocks/chiseled_bone_serpent_tooth_bricks",
+    "up": "alexsabnormalities:blocks/chiseled_bone_serpent_tooth_bricks",
+    "north": "alexsabnormalities:blocks/chiseled_bone_serpent_tooth_bricks",
+    "east": "alexsabnormalities:blocks/chiseled_bone_serpent_tooth_bricks",
+    "south": "alexsabnormalities:blocks/chiseled_bone_serpent_tooth_bricks",
+    "west": "alexsabnormalities:blocks/chiseled_bone_serpent_tooth_bricks",
+    "particle": "alexsabnormalities:blocks/chiseled_bone_serpent_tooth_bricks"
+  }
+}

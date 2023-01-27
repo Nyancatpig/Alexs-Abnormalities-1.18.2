@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "alexsabnormalities:blocks/crocodile_scute_pavement",
+    "top": "alexsabnormalities:blocks/crocodile_scute_pavement",
+    "side": "alexsabnormalities:blocks/crocodile_scute_pavement"
+  }
+}

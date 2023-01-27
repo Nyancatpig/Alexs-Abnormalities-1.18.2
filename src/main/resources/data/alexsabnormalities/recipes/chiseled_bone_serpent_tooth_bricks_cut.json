@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "alexsabnormalities:bone_serpent_tooth_bricks"
+  },
+  "result": "alexsabnormalities:chiseled_bone_serpent_tooth_bricks"
+}

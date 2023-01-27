@@ -1,0 +1,33 @@
+{
+  "group": "crocodile_scute_pavement_stairs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsabnormalities:crocodile_scute_pavement"
+    },
+    "3": {
+      "item": "alexsabnormalities:crocodile_scute_pavement"
+    },
+    "4": {
+      "item": "alexsabnormalities:crocodile_scute_pavement"
+    },
+    "6": {
+      "item": "alexsabnormalities:crocodile_scute_pavement"
+    },
+    "7": {
+      "item": "alexsabnormalities:crocodile_scute_pavement"
+    },
+    "8": {
+      "item": "alexsabnormalities:crocodile_scute_pavement"
+    }
+  },
+  "result": {
+    "item": "alexsabnormalities:crocodile_scute_pavement_stairs",
+    "count": 4
+  }
+}

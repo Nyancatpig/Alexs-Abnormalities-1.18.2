@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "alexsabnormalities:blocks/spiked_scute_pavement",
+    "particle": "alexsabnormalities:blocks/spiked_scute_pavement"
+  }
+}

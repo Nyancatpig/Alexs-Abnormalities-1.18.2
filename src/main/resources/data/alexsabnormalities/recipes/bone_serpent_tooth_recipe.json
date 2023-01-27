@@ -1,0 +1,16 @@
+{
+  "group": "bone_serpent_tooth",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsabnormalities:bone_serpent_tooth_block"
+    }
+  },
+  "result": {
+    "item": "alexsmobs:bone_serpent_tooth",
+    "count": 9
+  }
+}

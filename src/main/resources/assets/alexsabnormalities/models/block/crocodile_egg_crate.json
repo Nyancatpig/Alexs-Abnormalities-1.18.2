@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "alexsabnormalities:blocks/crocodile_egg_crate_bottom",
+    "up": "alexsabnormalities:blocks/crocodile_egg_crate_top",
+    "north": "alexsabnormalities:blocks/crocodile_egg_crate_side",
+    "east": "alexsabnormalities:blocks/crocodile_egg_crate_side",
+    "south": "alexsabnormalities:blocks/crocodile_egg_crate_side",
+    "west": "alexsabnormalities:blocks/crocodile_egg_crate_side",
+    "particle": "alexsabnormalities:blocks/crocodile_egg_crate_bottom"
+  }
+}

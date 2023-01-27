@@ -1,0 +1,32 @@
+{
+  "group": "crocodile_scute_pavement_wall",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsabnormalities:crocodile_scute_pavement"
+    },
+    "1": {
+      "item": "alexsabnormalities:crocodile_scute_pavement"
+    },
+    "2": {
+      "item": "alexsabnormalities:crocodile_scute_pavement"
+    },
+    "3": {
+      "item": "alexsabnormalities:crocodile_scute_pavement"
+    },
+    "4": {
+      "item": "alexsabnormalities:crocodile_scute_pavement"
+    },
+    "5": {
+      "item": "alexsabnormalities:crocodile_scute_pavement"
+    }
+  },
+  "result": {
+    "item": "alexsabnormalities:crocodile_scute_pavement_wall",
+    "count": 6
+  }
+}

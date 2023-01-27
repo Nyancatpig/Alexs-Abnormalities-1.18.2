@@ -1,0 +1,42 @@
+{
+  "group": "emu_egg_crate",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsmobs:emu_egg"
+    },
+    "1": {
+      "item": "alexsmobs:emu_egg"
+    },
+    "2": {
+      "item": "alexsmobs:emu_egg"
+    },
+    "3": {
+      "item": "alexsmobs:emu_egg"
+    },
+    "4": {
+      "item": "alexsmobs:emu_egg"
+    },
+    "5": {
+      "item": "alexsmobs:emu_egg"
+    },
+    "6": {
+      "item": "alexsmobs:emu_egg"
+    },
+    "7": {
+      "item": "alexsmobs:emu_egg"
+    },
+    "8": {
+      "item": "alexsmobs:emu_egg"
+    }
+  },
+  "result": {
+    "item": "alexsabnormalities:emu_egg_crate",
+    "count": 1
+  }
+}

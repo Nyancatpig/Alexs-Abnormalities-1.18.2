@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "alexsabnormalities:bone_serpent_tooth_tiles"
+  },
+  "result": "alexsabnormalities:bone_serpent_tooth_tile_stairs"
+}

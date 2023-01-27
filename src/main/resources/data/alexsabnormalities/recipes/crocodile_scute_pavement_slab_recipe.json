@@ -1,0 +1,22 @@
+{
+  "group": "crocodile_scute_pavement_slab",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsabnormalities:crocodile_scute_pavement"
+    },
+    "1": {
+      "item": "alexsabnormalities:crocodile_scute_pavement"
+    },
+    "2": {
+      "item": "alexsabnormalities:crocodile_scute_pavement"
+    }
+  },
+  "result": {
+    "item": "alexsabnormalities:crocodile_scute_pavement_slab",
+    "count": 6
+  }
+}

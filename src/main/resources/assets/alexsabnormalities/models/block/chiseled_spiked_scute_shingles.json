@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "alexsabnormalities:blocks/chiseled_spiked_scute_shingles",
+    "up": "alexsabnormalities:blocks/chiseled_spiked_scute_shingles",
+    "north": "alexsabnormalities:blocks/chiseled_spiked_scute_shingles",
+    "east": "alexsabnormalities:blocks/chiseled_spiked_scute_shingles",
+    "south": "alexsabnormalities:blocks/chiseled_spiked_scute_shingles",
+    "west": "alexsabnormalities:blocks/chiseled_spiked_scute_shingles",
+    "particle": "alexsabnormalities:blocks/chiseled_spiked_scute_shingles"
+  }
+}

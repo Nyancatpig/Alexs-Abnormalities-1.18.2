@@ -1,0 +1,22 @@
+{
+  "group": "spiked_scute_shingle_slab",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsabnormalities:spiked_scute_shingles"
+    },
+    "1": {
+      "item": "alexsabnormalities:spiked_scute_shingles"
+    },
+    "2": {
+      "item": "alexsabnormalities:spiked_scute_shingles"
+    }
+  },
+  "result": {
+    "item": "alexsabnormalities:spiked_scute_shingle_slab",
+    "count": 6
+  }
+}

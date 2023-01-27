@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "alexsabnormalities:cachalot_whale_tooth_tiles"
+  },
+  "result": "alexsabnormalities:cachalot_whale_tooth_tile_wall"
+}

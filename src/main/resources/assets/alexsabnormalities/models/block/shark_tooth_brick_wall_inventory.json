@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "alexsabnormalities:blocks/shark_tooth_bricks",
+    "particle": "alexsabnormalities:blocks/shark_tooth_bricks"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "group": "spiked_scute_shingle_stairs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsabnormalities:spiked_scute_shingles"
+    },
+    "3": {
+      "item": "alexsabnormalities:spiked_scute_shingles"
+    },
+    "4": {
+      "item": "alexsabnormalities:spiked_scute_shingles"
+    },
+    "6": {
+      "item": "alexsabnormalities:spiked_scute_shingles"
+    },
+    "7": {
+      "item": "alexsabnormalities:spiked_scute_shingles"
+    },
+    "8": {
+      "item": "alexsabnormalities:spiked_scute_shingles"
+    }
+  },
+  "result": {
+    "item": "alexsabnormalities:spiked_scute_shingle_stairs",
+    "count": 4
+  }
+}

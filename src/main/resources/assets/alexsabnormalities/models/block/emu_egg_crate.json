@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "alexsabnormalities:blocks/emu_egg_crate_bottom",
+    "up": "alexsabnormalities:blocks/emu_egg_crate_top",
+    "north": "alexsabnormalities:blocks/emu_egg_crate_side",
+    "east": "alexsabnormalities:blocks/emu_egg_crate_side",
+    "south": "alexsabnormalities:blocks/emu_egg_crate_side",
+    "west": "alexsabnormalities:blocks/emu_egg_crate_side",
+    "particle": "alexsabnormalities:blocks/emu_egg_crate_bottom"
+  }
+}

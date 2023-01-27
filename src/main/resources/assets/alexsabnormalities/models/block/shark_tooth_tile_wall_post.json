@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "alexsabnormalities:blocks/shark_tooth_tiles",
+    "particle": "alexsabnormalities:blocks/shark_tooth_tiles"
+  }
+}

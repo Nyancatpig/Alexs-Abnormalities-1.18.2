@@ -1,0 +1,42 @@
+{
+  "group": "whale_tooth_block",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsmobs:cachalot_whale_tooth"
+    },
+    "1": {
+      "item": "alexsmobs:cachalot_whale_tooth"
+    },
+    "2": {
+      "item": "alexsmobs:cachalot_whale_tooth"
+    },
+    "3": {
+      "item": "alexsmobs:cachalot_whale_tooth"
+    },
+    "4": {
+      "item": "alexsmobs:cachalot_whale_tooth"
+    },
+    "5": {
+      "item": "alexsmobs:cachalot_whale_tooth"
+    },
+    "6": {
+      "item": "alexsmobs:cachalot_whale_tooth"
+    },
+    "7": {
+      "item": "alexsmobs:cachalot_whale_tooth"
+    },
+    "8": {
+      "item": "alexsmobs:cachalot_whale_tooth"
+    }
+  },
+  "result": {
+    "item": "alexsabnormalities:cachalot_whale_tooth_block",
+    "count": 1
+  }
+}

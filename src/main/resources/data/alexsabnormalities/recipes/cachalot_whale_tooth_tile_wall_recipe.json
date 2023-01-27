@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsabnormalities:cachalot_whale_tooth_tiles"
+    },
+    "1": {
+      "item": "alexsabnormalities:cachalot_whale_tooth_tiles"
+    },
+    "2": {
+      "item": "alexsabnormalities:cachalot_whale_tooth_tiles"
+    },
+    "3": {
+      "item": "alexsabnormalities:cachalot_whale_tooth_tiles"
+    },
+    "4": {
+      "item": "alexsabnormalities:cachalot_whale_tooth_tiles"
+    },
+    "5": {
+      "item": "alexsabnormalities:cachalot_whale_tooth_tiles"
+    }
+  },
+  "result": {
+    "item": "alexsabnormalities:cachalot_whale_tooth_tile_wall",
+    "count": 6
+  }
+}

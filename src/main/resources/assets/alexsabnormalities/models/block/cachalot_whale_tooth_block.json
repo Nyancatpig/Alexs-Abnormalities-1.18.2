@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "alexsabnormalities:blocks/cachalot_whale_tooth_block",
+    "up": "alexsabnormalities:blocks/cachalot_whale_tooth_block",
+    "north": "alexsabnormalities:blocks/cachalot_whale_tooth_block",
+    "east": "alexsabnormalities:blocks/cachalot_whale_tooth_block",
+    "south": "alexsabnormalities:blocks/cachalot_whale_tooth_block",
+    "west": "alexsabnormalities:blocks/cachalot_whale_tooth_block",
+    "particle": "alexsabnormalities:blocks/cachalot_whale_tooth_block"
+  }
+}

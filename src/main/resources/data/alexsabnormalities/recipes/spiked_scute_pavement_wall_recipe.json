@@ -1,0 +1,32 @@
+{
+  "group": "spiked_scute_pavement_wall",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsabnormalities:spiked_scute_pavement"
+    },
+    "1": {
+      "item": "alexsabnormalities:spiked_scute_pavement"
+    },
+    "2": {
+      "item": "alexsabnormalities:spiked_scute_pavement"
+    },
+    "3": {
+      "item": "alexsabnormalities:spiked_scute_pavement"
+    },
+    "4": {
+      "item": "alexsabnormalities:spiked_scute_pavement"
+    },
+    "5": {
+      "item": "alexsabnormalities:spiked_scute_pavement"
+    }
+  },
+  "result": {
+    "item": "alexsabnormalities:spiked_scute_pavement_wall",
+    "count": 6
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "bone_serpent_tooth_block",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsmobs:bone_serpent_tooth"
+    },
+    "1": {
+      "item": "alexsmobs:bone_serpent_tooth"
+    },
+    "2": {
+      "item": "alexsmobs:bone_serpent_tooth"
+    },
+    "3": {
+      "item": "alexsmobs:bone_serpent_tooth"
+    },
+    "4": {
+      "item": "alexsmobs:bone_serpent_tooth"
+    },
+    "5": {
+      "item": "alexsmobs:bone_serpent_tooth"
+    },
+    "6": {
+      "item": "alexsmobs:bone_serpent_tooth"
+    },
+    "7": {
+      "item": "alexsmobs:bone_serpent_tooth"
+    },
+    "8": {
+      "item": "alexsmobs:bone_serpent_tooth"
+    }
+  },
+  "result": {
+    "item": "alexsabnormalities:bone_serpent_tooth_block",
+    "count": 1
+  }
+}

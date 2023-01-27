@@ -1,0 +1,16 @@
+{
+  "group": "crocodile_scute",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsabnormalities:crocodile_scute_block"
+    }
+  },
+  "result": {
+    "item": "alexsmobs:crocodile_scute",
+    "count": 9
+  }
+}

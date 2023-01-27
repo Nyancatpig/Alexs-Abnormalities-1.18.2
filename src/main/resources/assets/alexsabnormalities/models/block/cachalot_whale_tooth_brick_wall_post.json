@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "alexsabnormalities:blocks/cachalot_whale_tooth_bricks",
+    "particle": "alexsabnormalities:blocks/cachalot_whale_tooth_bricks"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "alexsabnormalities:custom/crocodile_scute_block",
+  "textures": {
+    "all": "alexsabnormalities:blocks/crocodile_scute_block_bottom",
+    "particle": "alexsabnormalities:blocks/crocodile_scute_block_bottom",
+    "0": "alexsabnormalities:blocks/crocodile_scute_block_side",
+    "1": "alexsabnormalities:blocks/crocodile_scute_block_top",
+    "2": "alexsabnormalities:blocks/crocodile_scute_block_bottom"
+  }
+}

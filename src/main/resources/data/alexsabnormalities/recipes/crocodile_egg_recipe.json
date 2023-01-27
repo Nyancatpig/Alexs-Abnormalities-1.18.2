@@ -1,0 +1,16 @@
+{
+  "group": "crocodile_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsabnormalities:crocodile_egg_crate"
+    }
+  },
+  "result": {
+    "item": "alexsmobs:crocodile_egg",
+    "count": 9
+  }
+}

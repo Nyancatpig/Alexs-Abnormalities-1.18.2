@@ -1,0 +1,20 @@
+{
+  "group": "chiseled_crocodile_scute_shingles",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsabnormalities:crocodile_scute_shingle_slab"
+    },
+    "1": {
+      "item": "alexsabnormalities:crocodile_scute_shingle_slab"
+    }
+  },
+  "result": {
+    "item": "alexsabnormalities:chiseled_crocodile_scute_shingles",
+    "count": 1
+  }
+}

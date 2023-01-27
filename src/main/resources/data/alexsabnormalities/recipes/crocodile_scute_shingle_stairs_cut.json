@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "alexsabnormalities:crocodile_scute_shingles"
+  },
+  "result": "alexsabnormalities:crocodile_scute_shingle_stairs"
+}

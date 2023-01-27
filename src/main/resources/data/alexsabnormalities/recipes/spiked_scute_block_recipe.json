@@ -1,0 +1,42 @@
+{
+  "group": "spiked_scute_block",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsmobs:spiked_scute"
+    },
+    "1": {
+      "item": "alexsmobs:spiked_scute"
+    },
+    "2": {
+      "item": "alexsmobs:spiked_scute"
+    },
+    "3": {
+      "item": "alexsmobs:spiked_scute"
+    },
+    "4": {
+      "item": "alexsmobs:spiked_scute"
+    },
+    "5": {
+      "item": "alexsmobs:spiked_scute"
+    },
+    "6": {
+      "item": "alexsmobs:spiked_scute"
+    },
+    "7": {
+      "item": "alexsmobs:spiked_scute"
+    },
+    "8": {
+      "item": "alexsmobs:spiked_scute"
+    }
+  },
+  "result": {
+    "item": "alexsabnormalities:spiked_scute_block",
+    "count": 1
+  }
+}

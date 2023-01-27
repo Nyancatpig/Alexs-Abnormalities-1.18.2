@@ -1,0 +1,10 @@
+{
+  "parent": "alexsabnormalitiessabnormalities:custom/spiked_scute_block",
+  "textures": {
+    "all": "alexsabnormalities:blocks/spiked_scute_block_bottom",
+    "particle": "alexsabnormalities:blocks/spiked_scute_block_bottom",
+    "0": "alexsabnormalities:blocks/spiked_scute_block_side",
+    "1": "alexsabnormalities:blocks/spiked_scute_block_top",
+    "2": "alexsabnormalities:blocks/spiked_scute_block_bottom"
+  }
+}

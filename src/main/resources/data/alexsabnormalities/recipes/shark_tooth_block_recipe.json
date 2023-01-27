@@ -1,0 +1,42 @@
+{
+  "group": "shark_tooth_block",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsmobs:shark_tooth"
+    },
+    "1": {
+      "item": "alexsmobs:shark_tooth"
+    },
+    "2": {
+      "item": "alexsmobs:shark_tooth"
+    },
+    "3": {
+      "item": "alexsmobs:shark_tooth"
+    },
+    "4": {
+      "item": "alexsmobs:shark_tooth"
+    },
+    "5": {
+      "item": "alexsmobs:shark_tooth"
+    },
+    "6": {
+      "item": "alexsmobs:shark_tooth"
+    },
+    "7": {
+      "item": "alexsmobs:shark_tooth"
+    },
+    "8": {
+      "item": "alexsmobs:shark_tooth"
+    }
+  },
+  "result": {
+    "item": "alexsabnormalities:shark_tooth_block",
+    "count": 1
+  }
+}

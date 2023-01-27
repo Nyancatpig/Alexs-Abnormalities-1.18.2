@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "alexsabnormalities:blocks/bone_serpent_tooth_bricks",
+    "particle": "alexsabnormalities:blocks/bone_serpent_tooth_bricks"
+  }
+}

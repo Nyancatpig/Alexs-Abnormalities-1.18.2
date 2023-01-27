@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "alexsabnormalities:blocks/crocodile_scute_shingles",
+    "particle": "alexsabnormalities:blocks/crocodile_scute_shingles"
+  }
+}

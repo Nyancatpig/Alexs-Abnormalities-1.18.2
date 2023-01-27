@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "alexsabnormalities:blocks/shark_tooth_bricks",
+    "top": "alexsabnormalities:blocks/shark_tooth_bricks",
+    "side": "alexsabnormalities:blocks/shark_tooth_bricks"
+  }
+}

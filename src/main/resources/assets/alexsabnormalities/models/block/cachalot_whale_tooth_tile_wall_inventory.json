@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "alexsabnormalities:blocks/cachalot_whale_tooth_tiles",
+    "particle": "alexsabnormalities:blocks/cachalot_whale_tooth_tiles"
+  }
+}

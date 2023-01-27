@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsabnormalities:shark_tooth_brick_slab"
+    },
+    "1": {
+      "item": "alexsabnormalities:shark_tooth_brick_slab"
+    }
+  },
+  "result": {
+    "item": "alexsabnormalities:chiseled_shark_tooth_bricks",
+    "count": 1
+  }
+}

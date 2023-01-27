@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "alexsabnormalities:blocks/cockroach_ootheca_crate_bottom",
+    "up": "alexsabnormalities:blocks/cockroach_ootheca_crate_top",
+    "north": "alexsabnormalities:blocks/cockroach_ootheca_crate_side",
+    "east": "alexsabnormalities:blocks/cockroach_ootheca_crate_side",
+    "south": "alexsabnormalities:blocks/cockroach_ootheca_crate_side",
+    "west": "alexsabnormalities:blocks/cockroach_ootheca_crate_side",
+    "particle": "alexsabnormalities:blocks/cockroach_ootheca_crate_bottom"
+  }
+}

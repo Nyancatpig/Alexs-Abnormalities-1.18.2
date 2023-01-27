@@ -1,0 +1,42 @@
+{
+  "group": "crocodile_scute_block",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsmobs:crocodile_scute"
+    },
+    "1": {
+      "item": "alexsmobs:crocodile_scute"
+    },
+    "2": {
+      "item": "alexsmobs:crocodile_scute"
+    },
+    "3": {
+      "item": "alexsmobs:crocodile_scute"
+    },
+    "4": {
+      "item": "alexsmobs:crocodile_scute"
+    },
+    "5": {
+      "item": "alexsmobs:crocodile_scute"
+    },
+    "6": {
+      "item": "alexsmobs:crocodile_scute"
+    },
+    "7": {
+      "item": "alexsmobs:crocodile_scute"
+    },
+    "8": {
+      "item": "alexsmobs:crocodile_scute"
+    }
+  },
+  "result": {
+    "item": "alexsabnormalities:crocodile_scute_block",
+    "count": 1
+  }
+}

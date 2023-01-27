@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "alexsabnormalities:block/spiked_scute_pavement_slab"
+    },
+    "type=top": {
+      "model": "alexsabnormalities:block/spiked_scute_pavement_slab_top"
+    },
+    "type=double": {
+      "model": "alexsabnormalities:block/spiked_scute_pavement_slab_full"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "alexsabnormalities:blocks/crocodile_scute_shingles",
+    "up": "alexsabnormalities:blocks/crocodile_scute_shingles",
+    "north": "alexsabnormalities:blocks/crocodile_scute_shingles",
+    "east": "alexsabnormalities:blocks/crocodile_scute_shingles",
+    "south": "alexsabnormalities:blocks/crocodile_scute_shingles",
+    "west": "alexsabnormalities:blocks/crocodile_scute_shingles",
+    "particle": "alexsabnormalities:blocks/crocodile_scute_shingles"
+  }
+}

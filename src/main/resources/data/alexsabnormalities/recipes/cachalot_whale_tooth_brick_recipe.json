@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsabnormalities:cachalot_whale_tooth_bricks"
+    },
+    "3": {
+      "item": "alexsabnormalities:cachalot_whale_tooth_bricks"
+    },
+    "4": {
+      "item": "alexsabnormalities:cachalot_whale_tooth_bricks"
+    },
+    "6": {
+      "item": "alexsabnormalities:cachalot_whale_tooth_bricks"
+    },
+    "7": {
+      "item": "alexsabnormalities:cachalot_whale_tooth_bricks"
+    },
+    "8": {
+      "item": "alexsabnormalities:cachalot_whale_tooth_bricks"
+    }
+  },
+  "result": {
+    "item": "alexsabnormalities:cachalot_whale_tooth_brick_stairs",
+    "count": 4
+  }
+}

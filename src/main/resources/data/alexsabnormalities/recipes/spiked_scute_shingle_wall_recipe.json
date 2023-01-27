@@ -1,0 +1,32 @@
+{
+  "group": "spiked_scute_shingle_wall",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsabnormalities:spiked_scute_shingles"
+    },
+    "1": {
+      "item": "alexsabnormalities:spiked_scute_shingles"
+    },
+    "2": {
+      "item": "alexsabnormalities:spiked_scute_shingles"
+    },
+    "3": {
+      "item": "alexsabnormalities:spiked_scute_shingles"
+    },
+    "4": {
+      "item": "alexsabnormalities:spiked_scute_shingles"
+    },
+    "5": {
+      "item": "alexsabnormalities:spiked_scute_shingles"
+    }
+  },
+  "result": {
+    "item": "alexsabnormalities:spiked_scute_shingle_wall",
+    "count": 6
+  }
+}

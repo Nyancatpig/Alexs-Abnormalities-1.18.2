@@ -1,0 +1,16 @@
+{
+  "group": "shark_tooth",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsabnormalities:shark_tooth_block"
+    }
+  },
+  "result": {
+    "item": "alexsmobs:shark_tooth",
+    "count": 9
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "alexsabnormalities:block/shark_tooth_brick_slab"
+    },
+    "type=top": {
+      "model": "alexsabnormalities:block/shark_tooth_brick_slab_top"
+    },
+    "type=double": {
+      "model": "alexsabnormalities:block/shark_tooth_brick_slab_full"
+    }
+  }
+}

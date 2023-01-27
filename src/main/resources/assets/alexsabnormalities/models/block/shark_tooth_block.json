@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "alexsabnormalities:blocks/shark_tooth_block",
+    "up": "alexsabnormalities:blocks/shark_tooth_block",
+    "north": "alexsabnormalities:blocks/shark_tooth_block",
+    "east": "alexsabnormalities:blocks/shark_tooth_block",
+    "south": "alexsabnormalities:blocks/shark_tooth_block",
+    "west": "alexsabnormalities:blocks/shark_tooth_block",
+    "particle": "alexsabnormalities:blocks/shark_tooth_block"
+  }
+}

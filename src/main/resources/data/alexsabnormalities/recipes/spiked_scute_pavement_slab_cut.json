@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "alexsabnormalities:spiked_scute_pavement"
+  },
+  "result": "alexsabnormalities:spiked_scute_pavement_slab"
+}

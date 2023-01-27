@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "alexsabnormalities:block/bone_serpent_tooth_brick_slab"
+    },
+    "type=top": {
+      "model": "alexsabnormalities:block/bone_serpent_tooth_brick_slab_top"
+    },
+    "type=double": {
+      "model": "alexsabnormalities:block/bone_serpent_tooth_brick_slab_full"
+    }
+  }
+}

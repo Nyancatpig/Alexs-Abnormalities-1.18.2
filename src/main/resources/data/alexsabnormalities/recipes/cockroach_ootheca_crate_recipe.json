@@ -1,0 +1,42 @@
+{
+  "group": "cockroach_ootheca_crate",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsmobs:cockroach_ootheca"
+    },
+    "1": {
+      "item": "alexsmobs:cockroach_ootheca"
+    },
+    "2": {
+      "item": "alexsmobs:cockroach_ootheca"
+    },
+    "3": {
+      "item": "alexsmobs:cockroach_ootheca"
+    },
+    "4": {
+      "item": "alexsmobs:cockroach_ootheca"
+    },
+    "5": {
+      "item": "alexsmobs:cockroach_ootheca"
+    },
+    "6": {
+      "item": "alexsmobs:cockroach_ootheca"
+    },
+    "7": {
+      "item": "alexsmobs:cockroach_ootheca"
+    },
+    "8": {
+      "item": "alexsmobs:cockroach_ootheca"
+    }
+  },
+  "result": {
+    "item": "alexsabnormalities:cockroach_ootheca_crate",
+    "count": 1
+  }
+}

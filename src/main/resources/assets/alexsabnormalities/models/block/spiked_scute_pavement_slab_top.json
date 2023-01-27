@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "alexsabnormalities:blocks/spiked_scute_pavement",
+    "top": "alexsabnormalities:blocks/spiked_scute_pavement",
+    "side": "alexsabnormalities:blocks/spiked_scute_pavement"
+  }
+}

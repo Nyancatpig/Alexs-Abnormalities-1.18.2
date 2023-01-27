@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "alexsabnormalities:blocks/crocodile_scute_pavement",
+    "up": "alexsabnormalities:blocks/crocodile_scute_pavement",
+    "north": "alexsabnormalities:blocks/crocodile_scute_pavement",
+    "east": "alexsabnormalities:blocks/crocodile_scute_pavement",
+    "south": "alexsabnormalities:blocks/crocodile_scute_pavement",
+    "west": "alexsabnormalities:blocks/crocodile_scute_pavement",
+    "particle": "alexsabnormalities:blocks/crocodile_scute_pavement"
+  }
+}

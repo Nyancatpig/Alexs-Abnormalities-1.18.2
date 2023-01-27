@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "alexsabnormalities:block/crocodile_scute_block"
+    },
+    "facing=east": {
+      "model": "alexsabnormalities:block/crocodile_scute_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "alexsabnormalities:block/crocodile_scute_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "alexsabnormalities:block/crocodile_scute_block",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "alexsabnormalities:block/crocodile_scute_block",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "alexsabnormalities:block/crocodile_scute_block",
+      "x": 90
+    }
+  }
+}

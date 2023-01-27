@@ -1,0 +1,16 @@
+{
+  "group": "emu_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsabnormalities:emu_egg_crate"
+    }
+  },
+  "result": {
+    "item": "alexsmobs:emu_egg",
+    "count": 9
+  }
+}

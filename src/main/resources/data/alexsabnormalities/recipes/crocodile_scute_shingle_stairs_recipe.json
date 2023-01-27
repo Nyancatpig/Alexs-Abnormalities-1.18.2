@@ -1,0 +1,33 @@
+{
+  "group": "crocodile_scute_stairs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsabnormalities:crocodile_scute_shingles"
+    },
+    "3": {
+      "item": "alexsabnormalities:crocodile_scute_shingles"
+    },
+    "4": {
+      "item": "alexsabnormalities:crocodile_scute_shingles"
+    },
+    "6": {
+      "item": "alexsabnormalities:crocodile_scute_shingles"
+    },
+    "7": {
+      "item": "alexsabnormalities:crocodile_scute_shingles"
+    },
+    "8": {
+      "item": "alexsabnormalities:crocodile_scute_shingles"
+    }
+  },
+  "result": {
+    "item": "alexsabnormalities:crocodile_scute_shingle_stairs",
+    "count": 4
+  }
+}

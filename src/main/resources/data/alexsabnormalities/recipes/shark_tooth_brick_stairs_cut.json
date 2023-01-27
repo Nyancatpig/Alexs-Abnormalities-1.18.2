@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "alexsabnormalities:shark_tooth_bricks"
+  },
+  "result": "alexsabnormalities:shark_tooth_brick_stairs"
+}
