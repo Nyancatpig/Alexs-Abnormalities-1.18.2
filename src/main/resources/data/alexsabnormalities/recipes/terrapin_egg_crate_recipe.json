@@ -1,0 +1,42 @@
+{
+  "group": "terrapin_egg_crate",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsmobs:terrapin_egg"
+    },
+    "1": {
+      "item": "alexsmobs:terrapin_egg"
+    },
+    "2": {
+      "item": "alexsmobs:terrapin_egg"
+    },
+    "3": {
+      "item": "alexsmobs:terrapin_egg"
+    },
+    "4": {
+      "item": "alexsmobs:terrapin_egg"
+    },
+    "5": {
+      "item": "alexsmobs:terrapin_egg"
+    },
+    "6": {
+      "item": "alexsmobs:terrapin_egg"
+    },
+    "7": {
+      "item": "alexsmobs:terrapin_egg"
+    },
+    "8": {
+      "item": "alexsmobs:terrapin_egg"
+    }
+  },
+  "result": {
+    "item": "alexsabnormalities:terrapin_egg_crate",
+    "count": 1
+  }
+}

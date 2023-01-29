@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom_rh",
+  "textures": {
+    "bottom": "alexsabnormalities:block/bone_serpent_tooth_door_bottom",
+    "top": "alexsabnormalities:block/bone_serpent_tooth_door_top"
+  }
+}

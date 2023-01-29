@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "C",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "alexsmobs:bone_serpent_tooth"
+    },
+    "C": {
+      "item": "minecraft:magma_cream"
+    }
+  },
+  "result": {
+    "item": "alexsabnormalities:bone_serpent_tooth_lantern",
+    "count": 1
+  }
+}

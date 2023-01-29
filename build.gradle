@@ -192,9 +192,9 @@ dependencies {
     implementation fg.deobf("curse.maven:blueprint-382216:3991478")
     implementation fg.deobf("curse.maven:buzzierbees-355458:3881526")
     implementation fg.deobf("curse.maven:upgradeaquatic-326895:4365140")
-    implementation fg.deobf("curse.maven:autumnity-365045:4365141")
+    //implementation fg.deobf("curse.maven:autumnity-365045:4365141")
     implementation fg.deobf("curse.maven:neapolitan-382016:3881528")
-    implementation fg.deobf("curse.maven:savageandravage-381736:3881530")
+    //implementation fg.deobf("curse.maven:savageandravage-381736:3881530")
     implementation fg.deobf("curse.maven:incubation-361718:3898465")
 
     // Examples using mod jars from ./libs

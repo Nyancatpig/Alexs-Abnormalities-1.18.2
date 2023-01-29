@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "alexsabnormalities:item/bone_serpent_tooth_door"
+  }
+}

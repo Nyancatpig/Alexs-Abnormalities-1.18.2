@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "alexsabnormalities:block/bone_serpent_tooth_trapdoor"
+  }
+}

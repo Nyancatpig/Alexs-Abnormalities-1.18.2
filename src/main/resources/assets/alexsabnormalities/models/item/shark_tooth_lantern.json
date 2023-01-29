@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "alexsabnormalities:item/shark_tooth_lantern"
+  }
+}

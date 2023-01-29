@@ -56,3 +56,45 @@ Adds compatibility between Alex's Mobs and the Abnormals Mods
     versionRange="[1.18.2,1.19)"
     ordering="NONE"
     side="BOTH"
+[[dependencies.alexsabnormalities]]
+modId = "alexsmobs"
+mandatory = true
+versionRange = "[1.17.5,]"
+ordering = "AFTER"
+side = "BOTH"
+[[dependencies.alexsabnormalities]]
+modId = "citadel"
+mandatory = true
+versionRange = "[1.11.2,]"
+ordering = "AFTER"
+side = "BOTH"
+[[dependencies.alexsabnormalities]]
+modId = "blueprint"
+mandatory = true
+versionRange = "[5.5.0,]"
+ordering = "AFTER"
+side = "BOTH"
+[[dependencies.alexsabnormalities]]
+modId = "buzzier_bees"
+mandatory = true
+versionRange = "[4.0.0,]"
+ordering = "AFTER"
+side = "BOTH"
+[[dependencies.alexsabnormalities]]
+modId = "upgrade_aquatic"
+mandatory = true
+versionRange = "[4.0.0,]"
+ordering = "AFTER"
+side = "BOTH"
+[[dependencies.alexsabnormalities]]
+modId = "neapolitan"
+mandatory = true
+versionRange = "[3.0.0,]"
+ordering = "AFTER"
+side = "BOTH"
+[[dependencies.alexsabnormalities]]
+modId = "incubation"
+mandatory = true
+versionRange = "[2.0.2,]"
+ordering = "AFTER"
+side = "BOTH"

@@ -51,5 +51,15 @@
   "block.alexsabnormalities.crocodile_scute_pavement_stairs": "Crocodile Scute Pavement Stairs",
   "block.alexsabnormalities.bone_serpent_tooth_tiles": "Bone Serpent Tooth Tiles",
   "block.alexsabnormalities.crocodile_scute_shingle_stairs": "Crocodile Scute Shingle Stairs",
-  "block.alexsabnormalities.chiseled_crocodile_scute_shingles": "Chiseled Crocodile Scute Shingles"
+  "block.alexsabnormalities.chiseled_crocodile_scute_shingles": "Chiseled Crocodile Scute Shingles",
+  "block.alexsabnormalities.shark_tooth_door": "Shark Tooth Door",
+  "block.alexsabnormalities.cachalot_whale_tooth_door": "Cachalot Whale Tooth Door",
+  "block.alexsabnormalities.bone_serpent_tooth_door": "Bone Serpent Tooth Door",
+  "block.alexsabnormalities.shark_tooth_trapdoor": "Shark Tooth Trapdoor",
+  "block.alexsabnormalities.cachalot_whale_tooth_trapdoor": "Cachalot Whale Tooth Trapdoor",
+  "block.alexsabnormalities.bone_serpent_tooth_trapdoor": "Bone Serpent Tooth Trapdoor",
+  "block.alexsabnormalities.shark_tooth_lantern": "Shark Tooth Lantern",
+  "block.alexsabnormalities.cachalot_whale_tooth_lantern": "Cachalot Whale Tooth Lantern",
+  "block.alexsabnormalities.bone_serpent_tooth_lantern": "Bone Serpent Tooth Lantern",
+  "block.alexsabnormalities.terrapin_egg_crate": "Terrapin Egg Crate"
 }

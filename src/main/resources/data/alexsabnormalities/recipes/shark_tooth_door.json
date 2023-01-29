@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "alexsmobs:shark_tooth"
+    }
+  },
+  "result": {
+    "item": "alexsabnormalities:shark_tooth_door",
+    "count": 3
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "terrapin_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsabnormalities:terrapin_egg_crate"
+    }
+  },
+  "result": {
+    "item": "alexsmobs:terrapin_egg",
+    "count": 9
+  }
+}

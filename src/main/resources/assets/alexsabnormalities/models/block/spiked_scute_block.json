@@ -1,10 +1,8 @@
 {
-  "parent": "alexsabnormalitiessabnormalities:custom/spiked_scute_block",
+  "parent": "minecraft:block/cube_bottom_top",
   "textures": {
-    "all": "alexsabnormalities:blocks/spiked_scute_block_bottom",
-    "particle": "alexsabnormalities:blocks/spiked_scute_block_bottom",
-    "0": "alexsabnormalities:blocks/spiked_scute_block_side",
-    "1": "alexsabnormalities:blocks/spiked_scute_block_top",
-    "2": "alexsabnormalities:blocks/spiked_scute_block_bottom"
+    "bottom": "alexsabnormalities:blocks/spiked_scute_block_bottom",
+    "side": "alexsabnormalities:blocks/spiked_scute_block_side",
+    "top": "alexsabnormalities:blocks/spiked_scute_block_top"
   }
 }

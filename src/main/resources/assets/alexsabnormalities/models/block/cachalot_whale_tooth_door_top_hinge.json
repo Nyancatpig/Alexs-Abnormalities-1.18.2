@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "alexsabnormalities:block/cachalot_whale_tooth_door_bottom",
+    "top": "alexsabnormalities:block/cachalot_whale_tooth_door_top"
+  }
+}

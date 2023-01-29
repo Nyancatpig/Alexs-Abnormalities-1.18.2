@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=down": { "model": "alexsabnormalities:block/cachalot_whale_tooth_lantern_ceiling" },
+    "facing=up": { "model": "alexsabnormalities:block/cachalot_whale_tooth_lantern_floor" },
+    "facing=north": { "model": "alexsabnormalities:block/cachalot_whale_tooth_lantern_wall", "y": 270 },
+    "facing=south": { "model": "alexsabnormalities:block/cachalot_whale_tooth_lantern_wall", "y": 90 },
+    "facing=west": { "model": "alexsabnormalities:block/cachalot_whale_tooth_lantern_wall", "y": 180 },
+    "facing=east": { "model": "alexsabnormalities:block/cachalot_whale_tooth_lantern_wall" }
+  }
+}

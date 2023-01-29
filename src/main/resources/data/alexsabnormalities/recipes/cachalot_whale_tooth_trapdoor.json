@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "alexsmobs:cachalot_whale_tooth"
+    }
+  },
+  "result": {
+    "item": "alexsabnormalities:cachalot_whale_tooth_trapdoor",
+    "count": 1
+  }
+}

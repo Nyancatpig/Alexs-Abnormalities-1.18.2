@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "alexsabnormalities:blocks/terrapin_egg_crate_bottom",
+    "up": "alexsabnormalities:blocks/terrapin_egg_crate_top",
+    "north": "alexsabnormalities:blocks/terrapin_egg_crate_side",
+    "east": "alexsabnormalities:blocks/terrapin_egg_crate_side",
+    "south": "alexsabnormalities:blocks/terrapin_egg_crate_side",
+    "west": "alexsabnormalities:blocks/terrapin_egg_crate_side",
+    "particle": "alexsabnormalities:blocks/terrapin_egg_crate_bottom"
+  }
+}
