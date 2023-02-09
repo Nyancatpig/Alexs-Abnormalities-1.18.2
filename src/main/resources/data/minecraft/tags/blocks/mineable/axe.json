@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "alexsabnormalities:emu_egg_crate",
+    "alexsabnormalities:crocodile_egg_crate",
+    "alexsabnormalities:terrapin_egg_crate",
+    "alexsabnormalities:cockroach_ootheca_crate"
+  ]
+}

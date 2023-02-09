@@ -13,6 +13,7 @@ import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.InterModComms;
 import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.InterModEnqueueEvent;
 import net.minecraftforge.fml.event.lifecycle.InterModProcessEvent;
@@ -41,7 +42,7 @@ public class AlexsAbnormalities
         MinecraftForge.EVENT_BUS.register(this);
     }
 
-    private void clientSetup(final FMLCommonSetupEvent event)
+    private void clientSetup(final FMLClientSetupEvent event)
     {
         ItemBlockRenderTypes.setRenderLayer(ModBlocks.SHARK_TOOTH_DOOR.get(), RenderType.translucent());
         ItemBlockRenderTypes.setRenderLayer(ModBlocks.SHARK_TOOTH_TRAPDOOR.get(), RenderType.translucent());
@@ -49,10 +50,5 @@ public class AlexsAbnormalities
         ItemBlockRenderTypes.setRenderLayer(ModBlocks.CACHALOT_WHALE_TOOTH_TRAPDOOR.get(), RenderType.translucent());
         ItemBlockRenderTypes.setRenderLayer(ModBlocks.BONE_SERPENT_TOOTH_DOOR.get(), RenderType.translucent());
         ItemBlockRenderTypes.setRenderLayer(ModBlocks.BONE_SERPENT_TOOTH_TRAPDOOR.get(), RenderType.translucent());
-    }
-
-    private void setup(final FMLCommonSetupEvent event)
-    {
-
     }
 }

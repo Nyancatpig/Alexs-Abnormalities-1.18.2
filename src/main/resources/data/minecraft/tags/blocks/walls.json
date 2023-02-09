@@ -5,11 +5,11 @@
     "alexsabnormalities:spiked_scute_shingle_wall",
     "alexsabnormalities:crocodile_scute_pavement_wall",
     "alexsabnormalities:crocodile_scute_shingle_wall",
-    "alexsabnormalities:bone_serpent_tooth_wall",
+    "alexsabnormalities:bone_serpent_tooth_tile_wall",
     "alexsabnormalities:bone_serpent_tooth_brick_wall",
-    "alexsabnormalities:cachalot_whale_tooth_wall",
+    "alexsabnormalities:cachalot_whale_tooth_tile_wall",
     "alexsabnormalities:cachalot_whale_tooth_brick_wall",
-    "alexsabnormalities:shark_tooth_wall",
+    "alexsabnormalities:shark_tooth_tile_wall",
     "alexsabnormalities:shark_tooth_brick_wall"
   ]
 }
