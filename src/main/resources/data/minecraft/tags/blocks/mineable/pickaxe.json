@@ -51,8 +51,8 @@
     "alexsabnormalities:crocodile_scute_pavement_stairs",
     "alexsabnormalities:crocodile_scute_pavement_wall",
     "alexsabnormalities:crocodile_scute_shingle_slab",
-    "alexsabnormalities:crocodile_scute_shingles_stairs",
-    "alexsabnormalities:crocodile_scute_shingles_wall",
+    "alexsabnormalities:crocodile_scute_shingle_stairs",
+    "alexsabnormalities:crocodile_scute_shingle_wall",
 
     "alexsabnormalities:spiked_scute_block",
     "alexsabnormalities:spiked_scute_shingles",
@@ -62,7 +62,7 @@
     "alexsabnormalities:spiked_scute_pavement_stairs",
     "alexsabnormalities:spiked_scute_pavement_wall",
     "alexsabnormalities:spiked_scute_shingle_slab",
-    "alexsabnormalities:spiked_scute_shingles_stairs",
-    "alexsabnormalities:spiked_scute_shingles_wall",
+    "alexsabnormalities:spiked_scute_shingle_stairs",
+    "alexsabnormalities:spiked_scute_shingle_wall"
   ]
 }
